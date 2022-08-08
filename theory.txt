@@ -1,0 +1,1 @@
+There are two ways to train a machine learning program: supervised and unsupervised learning.
