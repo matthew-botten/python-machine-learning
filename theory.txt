@@ -1,2 +1,2 @@
-There are two ways to train a machine learning program: supervised and unsupervised learning. Supervised learning is when a set of data with known "answers" is used to train the program. Such as squarehouseprice()
+There are two ways to train a machine learning program: supervised and unsupervised learning. Supervised learning is when a set of data with known "answers" is used to train the program. Such as a set of data containing the floor area of houses linked to a set containing there values.
 Once a program is trained by either of these methods, data can be fed into it to predict outcomes. This has a vast number of applications such as for predicting which ads would most likely be clicked by certain customers.
